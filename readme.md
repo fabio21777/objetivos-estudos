@@ -8,6 +8,7 @@
    - Qualidade de software em aplicações modernas.
    - Cognitive Driven Development (CDD).
    - Testes de qualidade de software.
+   - Ser capaz em passa em entrevistas técnicas usando o conhecimento adquirido.
 
 2. **Micronaut**:
    - Aprender a usar o framework Micronaut para desenvolvimento de aplicações web.
@@ -15,6 +16,10 @@
    - Compreender como funciona a camada HTTP e resposta da API.
    - Estudar como funciona a injeção de dependência.
    - Implementar testes unitários e de integração.
+   - Ser capaz de criar uma aplicação web simples usando o Micronaut.
+   - Aprender a usar o Micronaut para criar APIs RESTful.
+   - Entender como funciona a configuração do Micronaut.
+   - Ser capaz de passa em entrevistas técnicas usando o conhecimento adquirido.
 
 3. **Quarkus**:
    - Aprender a usar o framework Quarkus para desenvolvimento de aplicações web.
@@ -22,3 +27,7 @@
    - Compreender como funciona a camada HTTP e resposta da API.
    - Estudar como funciona a injeção de dependência.
    - Implementar testes unitários e de integração.
+   - Ser capaz de criar uma aplicação web simples usando o Quarkus.
+   - Aprender a usar o Quarkus para criar APIs RESTful.
+   - Entender como funciona a configuração do Quarkus.
+   - Ser capaz de passa em entrevistas técnicas usando o conhecimento adquirido.
